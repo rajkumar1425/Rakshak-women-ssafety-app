@@ -1,7 +1,7 @@
 # Rakshak-women-safety-app
 # 🛡️ Rakshak - India's No. 1 Women's Safety App
 
-[![GitHub Release](https://img.shields.io/github/v/release/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App?include_prereleases=&sort=semver&color=success)](https://github.com/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App/releases)
+[![GitHub Release]([https://img.shields.io/github/v/release/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App?include_prereleases=&sort=semver&color=success)](https://github.com/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App/releases](https://github.com/rajkumar1425/Rakshak-women-ssafety-app/releases/download/2.0.0/app-release.apk))
 [![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)](https://github.com/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App/releases)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📥 Download Latest APK (v1.1.0 - Free & Secure)
+## 📥 Download Latest APK (v2.0.0 - Free & Secure)
 
 Looking for the direct APK download? You can download the latest version of Rakshak v1.1.0 securely and directly:
 
