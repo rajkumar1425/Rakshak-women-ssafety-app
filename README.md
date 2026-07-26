@@ -13,7 +13,7 @@
 
 Looking for the direct APK download? You can download the latest version of Rakshak v1.1.0 securely and directly:
 
-👉 **[Download Rakshak v1.1.0 APK Now](https://github.com/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App/releases/download/v1.1.0/app-arm64-v8a-release.apk)**
+👉 **[Download Rakshak v2.0.0 APK Now]([https://github.com/rajkumar1425/Rakshak-India-s-no-1-Women-s-Safety-App/releases/download/v1.1.0/app-arm64-v8a-release.apk](https://github.com/rajkumar1425/Rakshak-women-ssafety-app/releases/download/2.0.0/app-release.apk))**
 
 ---
 
