@@ -1,4 +1,4 @@
-# 🛡️ Rakshak - India's No. 1 Women's Safety App
+# 🛡️ Rakshak - India's Women's Safety App
 
 [![GitHub Release](https://img.shields.io/github/v/release/rajkumar1425/Rakshak-women-ssafety-app?include_prereleases=&sort=semver&color=success)](https://github.com/rajkumar1425/Rakshak-women-ssafety-app/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)](https://github.com/rajkumar1425/Rakshak-women-ssafety-app/releases)
