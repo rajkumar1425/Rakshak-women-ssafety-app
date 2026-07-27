@@ -8,11 +8,11 @@
 
 ---
 
-## 📥 Download Latest APK (v2.0.0 - Free & Secure)
+## 📥 Download Latest APK (v1.2.0 - Free & Secure)
 
 Looking for the direct APK download? You can download the latest version securely and directly:
 
-👉 **[Download Rakshak v2.0.0 APK Now](https://github.com/rajkumar1425/Rakshak-women-ssafety-app/releases/download/2.0.0/app-release.apk)**
+👉 **[Download Rakshak v1.2.0 APK Now]([https://github.com/rajkumar1425/Rakshak-women-ssafety-app/releases/download/2.0.0/app-release.apk](https://github.com/rajkumar1425/Rakshak-women-ssafety-app/releases/download/1.2.0/app-armeabi-v7a-release.apk))**
 
 ---
 
