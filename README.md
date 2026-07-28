@@ -27,6 +27,41 @@ Looking for the direct APK download? You can download the latest version securel
 
 ---
 
+An advanced Android safety and emergency response application built with **Flutter** and **Firebase**. This app is designed to provide rapid assistance during emergencies by broadcasting SOS alerts to nearby users, tracking real-time helper locations, and helping communities locate missing persons.
+
+---
+
+### 1. 🆘 Emergency SOS & Live Tracking
+* **Instant SOS Trigger:** Send an emergency alert with precise GPS coordinates (`latitude` and `longitude`) instantly.
+* **Smart Nearby Broadcasting:** Notifies nearby users while automatically filtering out your own alerts and ignoring requests older than 30 minutes.
+* **Real-time Helper Coordination:** Volunteers can accept SOS requests, and their live locations can be tracked in real-time via Firebase sub-collections.
+* **Alert Resolution:** Users can safely stop/resolve their active SOS alerts once safe.
+
+### 2. 🔍 Missing Persons Network
+* **Report Missing Individuals:** Add detailed profiles of missing persons including photos, physical descriptions (age, height, weight, clothing), last seen location, and emergency contact info.
+* **Active Status Updates:** Update information, track status, or mark records as "Found" once the person is located.
+* **Real-time Feeds:** Stream active missing person cases instantly using Firestore snapshots.
+
+### 3. 📇 Smart Contacts & Nearby Users
+* **Registered Contact Syncing:** Scan your phonebook securely to identify which of your contacts are already registered on the platform.
+* **Geo-spatial Proximity Search:** Utilizes **GeoFlutterFire Plus** to find and connect with users within a specified radius.
+
+### 4. 🔐 Secure Authentication & User Management
+* **Flexible Login Options:** Authenticate securely using either Email/Password or Mobile Number/Password.
+* **Profile Management:** Update personal details, date of birth, state, district, and profile photos.
+* **Cloud Messaging (FCM):** Integrated push notification support for emergency alerts and updates.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Flutter (Dart)
+* **Backend & Database:** Firebase Firestore, Firebase Auth
+* **Notifications:** Firebase Cloud Messaging (FCM)
+* **Geo-spatial Queries:** `geoflutterfire_plus`
+
+---
+
 ## 📱 How to Install on Android
 
 1. Click on the direct download link above.
@@ -36,12 +71,7 @@ Looking for the direct APK download? You can download the latest version securel
 
 ---
 
-## 🛠️ Built With
 
-* **Flutter** - Cross-platform mobile application framework
-* **Dart** - Programming language
-
----
 
 ## 🤝 Contributing & Support
 
